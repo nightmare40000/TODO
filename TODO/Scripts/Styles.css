@@ -1,0 +1,26 @@
+﻿body {
+    background-color: #eee8aa;
+    margin: 1px;
+}
+
+footer, header {
+    border: solid black 1px;
+    text-align: center;
+}
+
+#container {
+    overflow: hidden;
+}
+
+.left-side {
+    width: 150px;
+    float: left;
+    text-align: center;
+
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.center {
+    overflow: hidden;
+}
